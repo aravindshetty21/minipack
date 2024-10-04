@@ -1,0 +1,2 @@
+# minipack
+minipack mimics webpack
